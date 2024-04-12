@@ -1,6 +1,6 @@
 package com.navneet.fakestoreapi_spring_bend;
 
-import models.Product;
+import com.navneet.fakestoreapi_spring_bend.models.Product;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 

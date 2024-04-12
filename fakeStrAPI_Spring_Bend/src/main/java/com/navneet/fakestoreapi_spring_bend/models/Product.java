@@ -1,4 +1,4 @@
-package models;
+package com.navneet.fakestoreapi_spring_bend.models;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
@@ -16,6 +16,7 @@ public class Product {
     private Double price;
     private Category category;
     private String image;
+//    private int quantity;
 
     /*
     // Replaced by args constructor
